@@ -1,4 +1,4 @@
 # hello-world
-just learn
+just learn the first try, the first try
 just second test
 second test
